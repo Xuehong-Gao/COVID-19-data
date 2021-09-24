@@ -1,4 +1,2 @@
 # COVID-19-data
-- dd
-- dd
-- dd
+- The number of infected cases and the number of available medical staff are provided here.
